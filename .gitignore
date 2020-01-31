@@ -1,0 +1,17 @@
+.coveralls.yml
+*.pyc
+.coverage
+.tox
+.pytest_cache
+.ipynb_checkpoints
+.executed_notebooks
+coverage.xml
+client-secrets.json
+**/__pycache__
+.cache
+.nox
+*sponge_log.xml
+.vscode/
+.DS_store
+venv/
+.idea/
