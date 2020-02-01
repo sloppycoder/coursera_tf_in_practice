@@ -14,4 +14,5 @@ client-secrets.json
 .vscode/
 .DS_store
 venv/
+tf140/
 .idea/
