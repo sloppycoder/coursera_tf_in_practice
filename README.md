@@ -1,6 +1,6 @@
 ## Notebooks for Coursera Tensorflow in Practice Specialization
 
-This repo contains jupyter notebooks for excercises in the Coursea [Tensorflow in Practice specialization](https://www.coursera.org/specializations/tensorflow-in-practice) by [deeplearning.ai](deeplearning.ai), which consists of 4 courses:
+This repo contains jupyter notebooks for excercises in the Coursea [Tensorflow in Practice specialization](https://www.coursera.org/specializations/tensorflow-in-practice) by [deeplearning.ai](https://www.deeplearning.ai/), which consists of 4 courses:
 
 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 2. Convolutional Neural Networks in TensorFlow
