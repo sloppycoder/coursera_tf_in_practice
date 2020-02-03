@@ -16,3 +16,5 @@ client-secrets.json
 venv/
 tf140/
 .idea/
+*.h5
+
